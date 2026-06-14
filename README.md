@@ -1,18 +1,20 @@
 # Sliding-and-rolling-along-circular-tracks-in-a-vertical-plane
 2026 General Physics Term Project
 
-# Simulation Analysis
+# Project Simulation Files
 
-This project simulates the dynamics of an object sliding and rolling along a circular track.
+This repository contains the simulation code for analyzing the motion of an object (metal nut) sliding and rolling along a semicircular wire track.
 
-## Source Code
-You can access the simulation notebook via the link below:
+## Simulation Source Code
+You can access the simulation notebooks via the links below:
 
-- [**View Simulation Notebook**](Sliding_and_rolling_along_circular_tracks_in_a_vertical_plane.ipynb)
+- [**Main Simulation Analysis**](Sliding_and_rolling_along_circular_tracks_in_a_vertical_plane.ipynb)
+- [**Setup & Configuration**](code1.ipynb)
+- [**Supplementary Dynamics Analysis**](code2.ipynb)
 
 ---
 
 ## How to run
 1. Ensure you have Jupyter Notebook or VS Code installed.
-2. Open the file `Sliding_and_rolling_along_circular_tracks_in_a_vertical_plane.ipynb` in your environment.
-3. Run the cells sequentially to see the simulation results.
+2. Open the respective `.ipynb` files in your environment.
+3. Run the cells sequentially to observe the simulation results and data analysis.
